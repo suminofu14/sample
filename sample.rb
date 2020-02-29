@@ -1,5 +1,6 @@
 def hello
-  p "hello, GitHub Desktop."
+  puts "hello, GitHub Desktop."
+  puts "good night."
 end
 
 hello
