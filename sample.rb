@@ -6,6 +6,7 @@ def hello
   puts "hage"
   puts "kone"
   puts "fune"
+  puts "kusa"
 end
 
 hello
