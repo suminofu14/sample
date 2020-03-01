@@ -5,6 +5,8 @@ def hello
   puts "hoge"
   puts "hage"
   puts "kone"
+  puts "hige"
+  puts "fune"
 end
 
 hello
