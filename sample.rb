@@ -7,6 +7,7 @@ def hello
   puts "kone"
   puts "fune"
   puts "kusa"
+  puts "hone"
 end
 
 hello
