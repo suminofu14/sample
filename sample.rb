@@ -8,6 +8,7 @@ def hello
   puts "fune"
   puts "kusa"
   puts "hone"
+  puts "hige"
 end
 
 hello
