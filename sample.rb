@@ -9,6 +9,7 @@ def hello
   puts "kusa"
   puts "hone"
   puts "hige"
+  puts "shigeru"
 end
 
 hello
